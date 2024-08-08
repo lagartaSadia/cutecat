@@ -3,4 +3,4 @@
 <p>Usei esse site para testar o uso de APIs.
 Ao abrir o site você é recepcionado por um gatinho fofinho</p>
 
-<a href="https://lagartasadia.github.io/cutecat/">Acesse o site</a>
+<a href="https://lagartasadia.github.io/cutecat/" target="_blank">Acesse o site</a>
